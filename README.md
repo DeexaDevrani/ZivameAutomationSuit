@@ -1,2 +1,4 @@
 # ZivameAutomationSuit
-This is for desktop automation suit.Following POM .
+This is for automation suit for zivame Desktop website.
+Using Selenium , POM model.
+
